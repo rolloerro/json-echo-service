@@ -1,0 +1,10 @@
+# Python venv
+venv/
+.venv/
+
+# Byte-compiled
+__pycache__/
+*.pyc
+
+# Env files
+.env
